@@ -1,5 +1,5 @@
 # Pricing_Tutorial
-a series of three notebooks that explore Smarter Pricing with IBM's Watson Studio
+
 
 Introduction
 
